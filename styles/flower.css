@@ -77,3 +77,53 @@
     font-weight: 800;
     margin-bottom: 0;
 }
+.instagram{
+    align-items: center;
+}
+.section-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+.section-description{
+    margin-top: 24;
+    display: flex;
+    width: 594px;
+    flex-direction: column;
+    flex-shrink: 0;
+    text-align: center;
+}
+.images{
+    width: 342px;
+    height: 396px;
+    flex-shrink: 0;
+    display: flex;
+    column-gap: 24px;
+}
+/*latest deal section style */
+/*.latest-deal{
+    background-image: ('C:\projects\web assignment 1\images');
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+.section-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+.deal-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+form{
+    width: 700px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #FFF;
+}
