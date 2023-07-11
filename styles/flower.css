@@ -120,7 +120,7 @@
 /*latest deal section style */
 .deal{
     background-image: url('../images/Rectangle\ 9.png');
-    background-position: center top;
+    margin: auto;
     text-align: center;
     width: 1440px;
     height: 449px;
